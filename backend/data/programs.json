@@ -1,0 +1,56 @@
+{
+  "undergraduate": [
+    {
+      "name": "Computer Science & Engineering",
+      "shortName": "CSE",
+      "level": "B.Tech"
+    },
+    {
+      "name": "Computer Science & Engineering (Artificial Intelligence and Machine Learning)",
+      "shortName": "CSE-AIML",
+      "level": "B.Tech"
+    },
+    {
+      "name": "Computer Science & Engineering (Data Science)",
+      "shortName": "CSE-DS",
+      "level": "B.Tech"
+    },
+    {
+      "name": "Electronics & Communication Engineering",
+      "shortName": "ECE",
+      "level": "B.Tech"
+    },
+    {
+      "name": "Electrical and Computer Engineering",
+      "shortName": "ELCE",
+      "level": "B.Tech"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "shortName": "Mechanical",
+      "level": "B.Tech"
+    },
+    {
+      "name": "Bachelor of Computer Applications",
+      "shortName": "BCA",
+      "level": "BCA"
+    }
+  ],
+  "postgraduate": [
+    {
+      "name": "Master of Computer Applications",
+      "shortName": "MCA",
+      "level": "MCA"
+    },
+    {
+      "name": "M.Tech in Computer Science and Engineering",
+      "shortName": "M.Tech CSE",
+      "level": "M.Tech"
+    },
+    {
+      "name": "M.Tech in Electronics and Communication Engineering",
+      "shortName": "M.Tech ECE",
+      "level": "M.Tech"
+    }
+  ]
+}

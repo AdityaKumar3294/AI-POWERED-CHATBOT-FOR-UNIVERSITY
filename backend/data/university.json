@@ -1,0 +1,15 @@
+{
+  "name": "ABES Engineering College",
+  "shortName": "ABES",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "address": "19th KM Stone, NH-09, Ghaziabad, Uttar Pradesh, PIN - 201009"
+  },
+  "established": 2000,
+  "status": "Autonomous College since 2025",
+  "studentSupportAssistant": "UniAssist AI",
+  "description": "ABES Engineering College is an engineering and higher-education institution in Ghaziabad, Uttar Pradesh.",
+  "website": "https://www.abes.ac.in/"
+}

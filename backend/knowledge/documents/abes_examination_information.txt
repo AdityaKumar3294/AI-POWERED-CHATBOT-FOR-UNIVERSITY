@@ -1,0 +1,50 @@
+ABES ENGINEERING COLLEGE
+EXAMINATION INFORMATION
+
+Source:
+ABES Engineering College Official Website
+
+Examination Information:
+
+ABES Engineering College publishes examination-related notifications,
+instructions, examination schedules, examination-form notices and
+challenge-evaluation notices through its official Circulars / Notices
+section.
+
+The official ABES Circulars / Notices section contains examination-related
+notifications for different academic sessions.
+
+Examples of examination-related information published by ABES include:
+
+- Examination schedules
+- Examination form notifications
+- Examination instructions and guidelines
+- Regular and carry-over examination information
+- Challenge evaluation notifications
+- University examination-related notifications
+
+Important:
+
+UniAssist AI must NOT invent or assume an examination date.
+
+If a student asks for a specific examination date, UniAssist should only
+provide the date when a verified and relevant examination schedule or
+official notice is available in the current knowledge base.
+
+If the required examination schedule is not available in the knowledge
+base, UniAssist should tell the student that the information is currently
+not available and recommend checking the latest official ABES notice.
+
+UniAssist AI does not have direct access to an individual student's
+personal examination registration, examination form, timetable, admit
+card, marks, results or examination status.
+
+Official ABES Circulars / Notices:
+https://www.abes.ac.in/circulars.html
+
+Official ABES Academic Calendar:
+https://www.abes.ac.in/Academic-Calender.html
+
+Source organization:
+ABES Engineering College
+19th KM Stone, NH-09, Ghaziabad, Uttar Pradesh
